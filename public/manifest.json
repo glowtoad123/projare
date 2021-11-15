@@ -1,0 +1,25 @@
+{
+  "name": "Projare",
+  "short_name": "Projare",
+  "description": "A webapp that will allow users to display their projects and what techniques, frameworks, and languages they used",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f3e46",
+  "icons": [
+    {
+      "src": "/projareexp196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/projareexp512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

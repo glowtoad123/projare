@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="search.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="10.770833"
+     inkscape:cx="9.3771755"
+     inkscape:cy="25.220458"
+     inkscape:window-width="1366"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2494"
+       x="-0.1072413"
+       y="-0.097097311"
+       width="1.2252943"
+       height="1.2031906">
+      <feFlood
+         flood-opacity="0.25098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2484" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2486" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.9"
+         result="blur"
+         id="feGaussianBlur2488" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset2490" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2492" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3723"
+       transform="translate(-4.3327798,5.0459992)">
+      <path
+         sodipodi:nodetypes="ccccsccccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="153.028"
+         inkscape:export-xdpi="153.028"
+         inkscape:export-filename="C:\Users\alonz\Projects\projare\public\search.png"
+         d="M 33.122865,2.5854816 C 27.499544,2.5851657 22.940862,7.1268841 22.941179,12.72928 c 0.0072,2.057251 0.642114,4.063691 1.820512,5.753077 L 13.701544,30.513516 c -0.991771,1.145673 -0.864381,2.863717 0.28557,3.851798 1.149953,0.988082 2.874414,0.861166 3.866185,-0.284508 L 28.973855,21.983992 c 1.305168,0.582493 2.718871,0.884502 4.14901,0.886352 C 38.745114,22.870659 43.303352,18.330608 43.30455,12.72928 43.304867,7.1268845 38.746186,2.5851663 33.122865,2.5854816 Z"
+         style="fill:#354f52;fill-opacity:1;fill-rule:evenodd;stroke:#354f52;stroke-width:4;stroke-linecap:square;stroke-opacity:0;filter:url(#filter2494)"
+         id="rect846" />
+      <circle
+         r="7.566731"
+         cy="12.580272"
+         cx="33.005798"
+         id="path1156"
+         style="fill:#cad2c5;fill-opacity:1;fill-rule:evenodd;stroke:#2f3e46;stroke-width:4;stroke-linecap:square;stroke-opacity:0" />
+      <path
+         id="path1293"
+         d="m 33.977865,6.3629143 c 0,0 -4.462559,-0.7489162 -6.567651,5.0152437"
+         style="fill:none;fill-opacity:1;stroke:#eaf2e5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

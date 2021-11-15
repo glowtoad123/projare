@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.31023"
+   height="20.327282"
+   viewBox="0 0 5.9029149 5.37826"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="github.svg"
+   inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+   inkscape:export-xdpi="153.02769"
+   inkscape:export-ydpi="153.02769"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="2.1655144"
+     inkscape:cy="11.799844"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter14477"
+       x="-0.3659209"
+       y="-0.43540245"
+       width="1.7996049"
+       height="1.951435">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood14467" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite14469" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.9"
+         result="blur"
+         id="feGaussianBlur14471" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset14473" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite14475" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter15967"
+       x="-0.13221182"
+       y="-0.20011769"
+       width="1.2889073"
+       height="1.4372942">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood15957" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite15959" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.9"
+         result="blur"
+         id="feGaussianBlur15961" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset15963" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite15965" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter22470"
+       x="-0.47461647"
+       y="-0.71838723"
+       width="2.0371249"
+       height="2.5698091">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood22460" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite22462" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.9"
+         result="blur"
+         id="feGaussianBlur22464" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset22466" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite22468" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.4242549,-4.0457345)">
+    <path
+       style="fill:#354f52;fill-opacity:1;stroke-width:1"
+       d="m 5.4666288,8.9959286 c 0,-0.00588 -0.043429,-0.014672 -0.096515,-0.019477 C 5.3170302,8.9716399 5.2035492,8.9535685 5.1179315,8.9362914 4.2031688,8.7516758 3.632788,8.1679416 3.4740773,7.2539526 3.4603824,7.1750632 3.4491699,7.0916299 3.4491699,7.0685442 c 0,-0.02309 -0.00558,-0.041978 -0.012458,-0.041978 -0.00798,0 -0.012457,-0.1164766 -0.012457,-0.3245239 0,-0.2131786 0.00428,-0.3218843 0.012457,-0.316828 0.00718,0.00443 0.012488,-0.00718 0.012542,-0.027283 9.4e-5,-0.045186 0.043185,-0.2255688 0.076752,-0.3214115 C 3.5855739,5.866427 3.7256652,5.6256074 3.8445333,5.4889597 l 0.04663,-0.053603 -0.00405,-0.2162345 c -0.00556,-1.5050044 0.3969832,-1.3644065 1.5245168,-0.650831 0.1550063,0.098618 0.1651106,0.1031033 0.2065373,0.091664 0.2030361,-0.056063 0.8640657,-0.080192 1.2120703,-0.044247 0.109591,0.011319 0.2328066,0.028383 0.2738125,0.037922 L 7.178606,4.6709684 7.3531181,4.5615179 C 8.5067347,3.8561092 8.8402573,3.7207542 8.8609134,5.1459676 l 0.00321,0.2925309 0.06118,0.074844 c 0.1270101,0.1553874 0.2425236,0.3565996 0.3003453,0.5231697 0.033347,0.096056 0.076409,0.2765294 0.076522,0.320676 5.12e-5,0.018835 0.00573,0.034249 0.012541,0.034249 0.00797,0 0.012458,0.114157 0.012458,0.3175628 0,0.2034065 -0.00451,0.3175627 -0.012458,0.3175627 -0.00687,0 -0.01245,0.018889 -0.01245,0.041978 0,0.066107 -0.046698,0.3179569 -0.081432,0.4392034 C 9.1145893,7.8785576 8.9707772,8.1302383 8.72335,8.3783636 8.5557548,8.5464323 8.4127133,8.6491873 8.2107175,8.7466187 7.9808882,8.8574753 7.6232102,8.9568062 7.3797517,8.9773859 c -0.052221,0.00443 -0.094951,0.012809 -0.094951,0.018652 0,0.00588 -0.4090953,0.010624 -0.9091014,0.010624 -0.5007944,0 -0.9091014,-0.00481 -0.9091014,-0.010739 z M 7.1291632,8.6906813 c -2.4699389,-3.0966312 -1.2349694,-1.5483156 0,0 z"
+       id="path854"
+       sodipodi:nodetypes="ccccssscccsccccsccccccccsssscsscsscccc"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+    <path
+       d="m 8.2678742,8.7496163 m -1.138711,-0.05889 c 0.389825,-0.04423 0.623379,-0.101794 0.835771,-0.206004 0.154049,-0.07558 0.23536,-0.134773 0.344457,-0.250743 0.171192,-0.181979 0.264231,-0.414329 0.295541,-0.738068 0.02969,-0.306991 -0.03326,-0.567784 -0.189375,-0.7846 -0.157808,-0.21916 -0.355246,-0.899605 -0.62426,-0.947024 -0.130927,-0.02308 -0.50525,-0.02052 -0.885031,0.006 -0.372344,0.02605 -0.7662765,0.02682 -1.1275936,0.0022 -0.4741022,-0.03229 -0.62273,-0.03632 -0.7735825,-0.02099 -0.2741324,0.02786 -0.4550741,0.657231 -0.6072331,0.799569 -0.2562714,0.23973 -0.365017,0.547898 -0.330652,0.937019 0.0285,0.322706 0.1215343,0.560138 0.290284,0.740835 0.1109111,0.118762 0.2052351,0.186006 0.370651,0.264236 0.2457327,0.116216 0.5770731,0.185156 1.0344616,0.215235 0.2604215,0.01713 1.1625606,0.0055 1.3665616,-0.01771 z"
+       style="fill:#cad2c5;fill-opacity:1;stroke-width:0.264583"
+       id="path14522"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+    <path
+       style="fill:none;fill-opacity:0.33333334;stroke:#52796f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4.6763313,7.5232375 c 0,0 0.070366,-1.0583333 0.6410476,-1.0583333 0.5706817,0 0.6410476,1.0583333 0.6410476,1.0583333"
+       id="path1123"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+    <path
+       style="fill:none;fill-opacity:0.33333334;stroke:#52796f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.7929981,7.5093999 c 0,0 0.070366,-1.0583333 0.6410476,-1.0583333 0.5706817,0 0.6410476,1.0583333 0.6410476,1.0583333"
+       id="path1123-9"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+    <path
+       style="color:#000000;fill:#52796f;fill-rule:evenodd;stroke-width:0.453914;stroke-linecap:square;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+       d="m 8.4463254,35.714731 -5.2253887,0 2.6126944,-4.525319 z"
+       id="path13234"
+       transform="matrix(-0.14572323,0,0,-0.14572323,7.2258079,13.101743)" />
+    <path
+       d="m 3.9847076,5.2014959 0.034837,-0.040046 -0.00303,-0.1615455 c -0.00415,-1.1243655 0.2965801,-1.0193271 1.1389431,-0.4862258 0.1158029,0.073676 0.1233515,0.077027 0.1543009,0.068481"
+       style="fill:#2f3e46;fill-opacity:1;stroke-width:0.264583"
+       id="path13379"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+    <path
+       d="m 8.7774966,5.2028398 -0.034837,-0.040046 0.00303,-0.1615455 C 8.7498396,3.8768828 8.4491095,3.9819212 7.6067465,4.5150225 7.4909436,4.5886985 7.483395,4.5920495 7.4524456,4.5835035"
+       style="fill:#2f3e46;fill-opacity:1;stroke-width:0.264583"
+       id="path13379-4"
+       inkscape:export-filename="C:\Users\alonz\OneDrive\Pictures\icons\github.png"
+       inkscape:export-xdpi="275.38937"
+       inkscape:export-ydpi="275.38937" />
+  </g>
+</svg>
